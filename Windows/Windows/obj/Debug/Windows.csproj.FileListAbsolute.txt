@@ -1,0 +1,10 @@
+C:\Users\bryzg\source\repos\Windows\Windows\bin\Debug\Windows.exe.config
+C:\Users\bryzg\source\repos\Windows\Windows\bin\Debug\Windows.exe
+C:\Users\bryzg\source\repos\Windows\Windows\bin\Debug\Windows.pdb
+C:\Users\bryzg\source\repos\Windows\Windows\obj\Debug\Windows.csproj.AssemblyReference.cache
+C:\Users\bryzg\source\repos\Windows\Windows\obj\Debug\Windows.Form1.resources
+C:\Users\bryzg\source\repos\Windows\Windows\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\bryzg\source\repos\Windows\Windows\obj\Debug\Windows.csproj.GenerateResource.cache
+C:\Users\bryzg\source\repos\Windows\Windows\obj\Debug\Windows.csproj.CoreCompileInputs.cache
+C:\Users\bryzg\source\repos\Windows\Windows\obj\Debug\Windows.exe
+C:\Users\bryzg\source\repos\Windows\Windows\obj\Debug\Windows.pdb
