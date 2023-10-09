@@ -1,0 +1,48 @@
+﻿  Lab6_KG.cpp
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(118,60): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(118,32): warning C4244: аргумент: преобразование "double" в "const float", возможна потеря данных
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(121,42): warning C4244: аргумент: преобразование "double" в "const T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(126,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(127,29): warning C4244: аргумент: преобразование "double" в "const T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(127,54): warning C4244: аргумент: преобразование "double" в "const T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(129,37): warning C4244: аргумент: преобразование "double" в "const T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(145,46): warning C4244: аргумент: преобразование "double" в "const T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(167,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(170,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(171,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(195,80): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(196,72): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\bryzg\source\repos\Lab6_KG\Lab6_KG\Lab6_KG.cpp(198,69): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+  Lab6_KG.vcxproj -> C:\Users\bryzg\source\repos\Lab6_KG\Debug\Lab6_KG.exe

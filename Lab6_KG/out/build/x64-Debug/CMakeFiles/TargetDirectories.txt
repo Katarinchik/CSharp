@@ -1,0 +1,3 @@
+C:/Users/bryzg/source/repos/tinyraytracer/out/build/x64-Debug/CMakeFiles/tinyraytracer.dir
+C:/Users/bryzg/source/repos/tinyraytracer/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/bryzg/source/repos/tinyraytracer/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
